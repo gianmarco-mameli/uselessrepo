@@ -14,5 +14,11 @@ gitGraph
     checkout main
     merge 1.1
     commit
+    branch 1.2
+    checkout 1.2
+    commit
+    checkout main
+    merge 1.2
+    commit
     
 ```

@@ -25,5 +25,10 @@ gitGraph
     commit
     checkout main
     merge 1.3
-    
+    commit
+    branch 1.4
+    checkout 1.4
+    commit
+    checkout main
+    merge 1.4
 ```

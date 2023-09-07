@@ -31,4 +31,12 @@ gitGraph
     commit
     checkout main
     merge 1.4
+    commit
+    branch 1.5
+    branch 1.6.devel
+    commit
+    checkout 1.5
+    commit
+    checkout main
+    merge 1.5
 ```

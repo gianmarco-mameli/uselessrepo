@@ -39,4 +39,6 @@ gitGraph
     commit
     checkout main
     merge 1.5
+    checkout 1.6.devel
+    commit
 ```
